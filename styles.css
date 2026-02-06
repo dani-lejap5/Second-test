@@ -5,8 +5,8 @@
 }
 
 body {
-    font-family: 'INTA', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-    background-color: #f7f7f4;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background-color: #7f889f;
     display: flex;
     justify-content: center;
     align-items: center;
